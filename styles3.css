@@ -1,0 +1,23 @@
+
+#bible {
+    width: 300px;
+    height: 40px;
+}
+
+form {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div {
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    padding: 30px;
+}
